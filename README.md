@@ -1,8 +1,15 @@
-# Getting Started with Create React App
+# Getting Started ✈️
 
+This is a simple lottery web application designed and developed for [Ehda Center](https://ehdacenter.ir)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Sponsors ❤️
+
+<p align="center">
+    <!-- real-sponsors --><a href="https://github.com/information-security"><img src="https://github.com/information-security.png" width="50px" alt="Farzan Doroodgar" /></a>&nbsp;&nbsp;<a href="https://github.com/utob-ir"><img src="https://github.com/utob-ir.png" width="50px" alt="Youtob Telecom Inc" /></a>&nbsp;&nbsp;<a href="https://github.com/themshday"><img src="https://github.com/themshday.png" width="50px" alt="Mohammad Shadmani" /></a>&nbsp;&nbsp;<a href="https://github.com/Zagrio"><img src="https://github.com/zagrio.png" width="50px" alt="Zagrio Hosting" /></a>
+</p>
+
+## Available Scripts ✨
 
 In the project directory, you can run:
 
