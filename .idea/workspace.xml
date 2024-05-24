@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d006a95b-4cde-4b31-bf3f-04693ca4eff1" name="Changes" comment="Added lottery system">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Ball.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Ball.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+    <list default="true" id="d006a95b-4cde-4b31-bf3f-04693ca4eff1" name="Changes" comment="Added sample `CSV` file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +46,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\utob\lottery\lottery-web\src\data" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\utob\lottery\lottery-web\sample-data" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -61,8 +58,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716392332230</updated>
-      <workItem from="1716392333840" duration="46933000" />
+      <workItem from="1716392333840" duration="48251000" />
     </task>
+    <task id="LOCAL-00001" summary="Implemented lottery mechanism.">
+      <created>1716514666987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716514666987</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added sample `CSV` file">
+      <created>1716514776521</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716514776521</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,7 +92,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Added lottery system" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added lottery system" />
+    <MESSAGE value="Implemented lottery mechanism." />
+    <MESSAGE value="Added sample `CSV` file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added sample `CSV` file" />
   </component>
 </project>
